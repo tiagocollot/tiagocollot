@@ -4,7 +4,7 @@
 <h2> About Me</h2>
 
 
--  🌱  I recently graduated at Le Wagon am I´m keen to pursue my dreams. Keep learning a bunch of code!                                                  
+-  🌱  I recently graduated @Le Wagon-Lisbon and I´m keen to pursue my dreams. Keep learning a bunch of code! 🤟🏽                                                  
 
 -  📫  How to reach me **collot.tiago1@gmail.com**                                        
 
