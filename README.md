@@ -8,7 +8,7 @@
 
 -  👨🏽‍💻  Currently learning React                                              
 
--  📫  How to reach me **collot.tiago1@gmail.com**                                        
+-  📫  How to reach me: **collot.tiago1@gmail.com**                                        
 
 -  👯  I’m looking foward to collaborate on new projects!
 
