@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **collot.tiago1@gmail.com**
 
-- ⚡ Fun fact: **I had a motorbike  🏍  accident to not kill a Chicken a 🐔 !**
+- ⚡ Fun fact: **I had a motorbike  🏍   accident to not kill a Chicken a 🐔 !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
