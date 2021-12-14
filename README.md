@@ -1,7 +1,7 @@
-<h1> Hello I'm Tiago Collot < />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi, I'm Tiago! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'></p>
 
-<h2> About Me</h2>
+<h2> About Me:</h2>
 
 
 -  🌱  I just recently graduated @Le Wagon-Lisbon and I´m keen to pursue my dreams. Keep learning a bunch of code! 🤟🏽    
