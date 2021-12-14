@@ -1,4 +1,4 @@
-<h1> Hello I'm Tiago Collot < />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> < >Hello I'm Tiago Collot < />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'></p>
 
 <h2> About Me</h2>
