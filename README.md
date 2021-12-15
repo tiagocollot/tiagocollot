@@ -4,7 +4,7 @@
 <h2> About Me :</h2>
 
 
--  🌱  I just recently graduated @Le Wagon-Lisbon and I´m keen to pursue my dreams. Keep learning a bunch of code! 🤟🏽    
+-  🌱  I just recently graduated @Le Wagon-Lisbon and I´m keen to learn and pursue my dreams. Keep learning a bunch of code! 🤟🏽    
 
 -  👨🏽‍💻  Currently learning React                                              
 
