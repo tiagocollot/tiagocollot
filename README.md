@@ -5,9 +5,7 @@
 
 
 -  🌱  I just recently graduated @Le Wagon-Lisbon and I´m keen to learn and pursue my dreams. Keep learning a bunch of code! 🤟🏽    
-
--  👨🏽‍💻  Currently learning React                                              
-
+                                       
 -  📫  How to reach me: **collot.tiago1@gmail.com**                                        
 
 -  👯  I’m looking foward to collaborate on new projects!
