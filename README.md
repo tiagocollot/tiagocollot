@@ -15,7 +15,6 @@
 -  ⚡ Fun fact: **I had a motorbike  🏍   accident to not kill a Chicken a 🐔 !**
 
 <br>
-<br>
 
 <h2> Technical Skills  </h2>
 <a href= https://github.com/https://github.com/tiagocollot?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
