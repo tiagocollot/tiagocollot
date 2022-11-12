@@ -54,6 +54,10 @@
 
 <br>
 
+<div class="pl-lg-3 col-6 border-lg-left">
+  <div class="js-activity-overview-graph-container" data-percentages="{&quot;Commits&quot;:100,&quot;Issues&quot;:0,&quot;Pull requests&quot;:0,&quot;Code review&quot;:0}">
+    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="js-activity-overview-graph-spinner mx-auto mt-4 anim-rotate d-none">
+</div>
 
 
 
