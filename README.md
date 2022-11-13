@@ -50,12 +50,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
 <hr>
 
 ## Thank you for visiting my profile. You're a gem. :gem:
 
-![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tiagocollot/count.svg)
 
 <hr>
