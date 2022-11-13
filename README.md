@@ -1,11 +1,13 @@
-<div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
+<!-- <div align="center">
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!</h1>
 </div>
-
+-->
+<hr>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+There!;I%20am%20a%20Software%20Engineer%20;Always%20ready%20;To%20learn%20new%20things%20&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20there%20fellow%20<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!%20;I%20am%20a%20Software%20Engineer%20;Always%20ready%20;To%20learn%20new%20things%20&center=true&width=380&height=45"></a>
 </p>
+<hr>
 
 </div>
 <h2> Hi, I'm Tiago! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
@@ -52,7 +54,7 @@
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
                                                                                                               
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
+<br>
 <h2> Some Programming Humor For You </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
