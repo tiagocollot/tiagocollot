@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Programming;Software+Engineer;Always%20learning%20new%20things%20&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+There!;I%20am%20a%20Software%20Engineer%20;Always%20ready%20;To%20learn%20new%20things%20&center=true&width=380&height=45"></a>
 </p>
 
 </div>
@@ -46,28 +46,17 @@
 <br>
 <br>
 
-### 🔥 Streak Stats
+<h2>🔥 Streak Stats </h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocollot&theme=algolia" alt="tiagocollot"  /></p>
 
-<hr>
-<div align="center>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-</div>
                                                                                                               
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-<hr>
-<br>
-
-<h2> Some Programming Humor for you </h2>
+<h2> Some Programming Humor For You </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-<hr>
+## Thank You For Visiting My Profile ⚡
 
-## Thank you for visiting my profile. You're a gem. :gem:
-
-![Visitor Count](https://profile-counter.glitch.me/tiagocollot/count.svg)
-
-<hr>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/tiagocollot/count.svg) -->
