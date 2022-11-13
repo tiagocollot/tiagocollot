@@ -59,7 +59,7 @@
 <br>
 <h2> Some Programming Humor For You </h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<p align="center"> ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) <p>
 
 ## Thank You For Visiting My Profile ⚡
 
