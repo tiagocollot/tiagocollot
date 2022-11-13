@@ -57,9 +57,9 @@
                                                                                                               
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br>
-<h2> Some Programming Humor For You </h2>
+<h2> Some Programming Humor For You 😎 </h2>
 
-<p align="center"> ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) <p>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) 
 
 ## Thank You For Visiting My Profile ⚡
 
