@@ -46,12 +46,6 @@
 <br>
 <br>
 
-
-<br>
-<br>
-
-
-
 <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
