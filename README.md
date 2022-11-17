@@ -58,7 +58,9 @@
 
 
                                                                                                               
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+</p>
+
 <br>
 <h2> Some Programming Humor For You 😎 </h2>
 
