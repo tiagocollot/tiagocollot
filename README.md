@@ -1,7 +1,7 @@
- <div align="center">
+<!-- <div align="center">
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!</h1>
 </div>
---
+
 <hr>
 <hr>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -53,7 +53,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocollot&theme=algolia" alt="tiagocollot"  /></p>
 
 
-<--! //<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git //Activeness</b></i></p>
+<!-- //<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git //Activeness</b></i></p>
 
  //<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tiagocollot Activity Graph" //src="https://denvercoder1-//activity-graph.herokuapp.com/graph/?username=tiagocollot&theme=react-dark&hide_border=true" //data-//canonical-//src="https://denvercoder1-//activity-//graph.herokuapp.com/graph/?//username=tiagocollot&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
 
