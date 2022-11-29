@@ -17,13 +17,13 @@
 <h2> About Me :</h2>
 
 
--  🌱  I just recently graduated @Le Wagon-Lisbon and I´m keen to learn and pursue my dreams. Keep learning a bunch of code! 🤟🏽    
+-  🌱 I´m keen to learn, pursue my dreams and keep learning a bunch of code! 🤟🏽    
                                        
 -  📫  How to reach me: **collot.tiago1@gmail.com**                                        
 
 -  👯  I’m looking foward to collaborate on new projects!
 
--  💬  Talk to me about Ruby, Rails, JavaScript, Opportunities, Open Source
+-  💬  Talk to me about Go, JavaScript, React, Opportunities, Open Source
 
 -  ⚡ Fun fact: **I had a motorbike  🏍   accident to not kill a Chicken a 🐔 !**
 
