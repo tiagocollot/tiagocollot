@@ -1,10 +1,3 @@
-<!-- <div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!</h1>
-</div>
-
-<hr>
-<hr>
-<!-- >
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20there%20fellow%20<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!%20;I%20am%20a%20Software%20Engineer%20;Always%20ready%20to%20learn%20new%20things%20&center=true&width=450&height=50"></a>
 </p>
@@ -14,7 +7,7 @@
 <h2> Hi, I'm Tiago! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
 <p align='center'></p>
 
-<h2> About Me :</h2>
+<h2> About Me:</h2>
 
 
 -  🌱 I´m keen to learn, pursue my dreams and keep learning a bunch of code! 🤟🏽    
@@ -51,17 +44,7 @@
 
 <h2>🔥 Streak Stats </h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocollot&theme=algolia" alt="tiagocollot"  /></p>
-
-
-<!-- //<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git //Activeness</b></i></p>
-
- //<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tiagocollot Activity Graph" //src="https://denvercoder1-//activity-graph.herokuapp.com/graph/?username=tiagocollot&theme=react-dark&hide_border=true" //data-//canonical-//src="https://denvercoder1-//activity-//graph.herokuapp.com/graph/?//username=tiagocollot&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
-
-
-                                                                                                              
-//<p align="center" >&nbsp;<img //src="https://github-//readme-//stats.vercel.app/api?//username=tiagocollot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" //width="410" />
-//</p> -->
-
+                                                                                                             
 <br>
 <h2> Some Programming Humor For You 😎 </h2>
 
