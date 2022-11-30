@@ -68,5 +68,3 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) 
 
 ## Thank You For Visiting My Profile ⚡
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/tiagocollot/count.svg) -->
